@@ -8,7 +8,7 @@ Project ini dikembangkan secara mandiri (solo project) sebagai implementasi pemb
 ---
 
 ## 🌐 Live Demo
-👉 https://shafiraaurelazzahra.github.io/aleshaayasyabrithday.github.io/
+👉 https://shafiraaurelazzahra.github.io/DigitalInvitationWebsite-aleshaayasyabrithday.github.io/
 
 ---
 
