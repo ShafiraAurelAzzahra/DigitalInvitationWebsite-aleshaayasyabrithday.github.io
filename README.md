@@ -22,10 +22,9 @@ Project ini dikembangkan secara mandiri (solo project) sebagai implementasi pemb
 ---
 
 ## 🖼️ Preview
-> Tambahkan screenshot tampilan website di sini
+> Tampilan Undangan Digital
+<img width="462" height="728" alt="Screenshot 2026-04-19 192550" src="https://github.com/user-attachments/assets/e5953f06-c591-446f-86b8-a6ee7b3112d4" />
 
-Contoh:
-![Preview](link-gambar)
 
 ---
 
